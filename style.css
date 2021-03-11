@@ -1,3 +1,14 @@
 .container {
     display: flex;
+    flex-direction: column;
+    justify-content: center;
+
 }
+
+
+#submit {
+    align-items: center;
+    width: 20%;
+}
+
+  
